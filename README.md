@@ -4,9 +4,8 @@ I made this project just for fun and interactive, It allows me to create nice an
 
 Skills:   REACT / JS / HTML / CSS/ PYTHON 
 
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning Information Technlogy 
-- 📫 How to reach me: deepakrocz016@gmail.com 
+- 🔭 I’m Currently Student Pursuing Information Technology
+- 🌱 I’m Currently interested in doing Web development 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/deepakb016)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/deepakrocz016/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/d-rocz)  
