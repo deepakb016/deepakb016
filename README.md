@@ -8,7 +8,7 @@ Skills:   REACT / JS / HTML / CSS/ PYTHON
 - 🌱 I’m Currently interested in doing Web development 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/deepakb016)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/deepakrocz016/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/d-rocz)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/deepakb016)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/deepakrocz016/) 
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepakb016)](https://github.com/anuraghazra/github-readme-stats)
