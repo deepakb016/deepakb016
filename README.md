@@ -1,10 +1,8 @@
 ### Hi there 👋, My Name is DEEPAK B
 #### I am Application Developer
-![I am Application Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
 I made this project just for fun and interactive, It allows me to create nice and simple GitHub Readme files use in my profile.
 
-Skills:   REACT / JS / HTML / CSS
+Skills:   REACT / JS / HTML / CSS/ PYTHON 
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Information Technlogy 
