@@ -1,4 +1,3 @@
-### Hi there 👋
 ### Hi there 👋, My Name is DEEPAK B
 #### I am Application Developer
 ![I am Application Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
