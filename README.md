@@ -1,4 +1,8 @@
 ### Hi there 👋
+🌱 I’m currently Engineering Student
+👯 I’m looking to collaborate on IT industry
+📫 How to reach me:deepakrocz016@gmail.com
+
 
 <!--
 **deepakb016/deepakb016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
