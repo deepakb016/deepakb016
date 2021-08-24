@@ -2,6 +2,7 @@
 🌱 I’m currently Engineering Student
 👯 I’m looking to collaborate on IT industry
 📫 How to reach me:deepakrocz016@gmail.com
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepakb016)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
